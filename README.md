@@ -1,3 +1,3 @@
-# JTB (Javiert Bootstrap Addons)
+# JTStyler
 
-He creado esta pequeña libreria de Clases en CSS, porque no estan en bootstrap, y son bastante utiles.
+Una librería de estilos CSS en complemento a Bootstrap, Semantic UI, Materialize, entre otros.
